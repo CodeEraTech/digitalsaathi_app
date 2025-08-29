@@ -1,0 +1,6 @@
+enum SocialTypeEnum{
+  INSTAGRAM,
+  WHATSAPP,
+  TWITTERTREND,
+  TWITTER
+}
